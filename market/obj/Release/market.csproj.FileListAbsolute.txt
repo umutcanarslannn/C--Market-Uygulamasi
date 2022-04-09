@@ -1,0 +1,6 @@
+C:\Users\Umutcan\Desktop\market\market\obj\Release\market.csprojResolveAssemblyReference.cache
+C:\Users\Umutcan\Desktop\market\market\obj\Release\market.Form1.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Release\market.Properties.Resources.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Release\market.sepet.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Release\market.urunler.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Release\market.csproj.GenerateResource.Cache

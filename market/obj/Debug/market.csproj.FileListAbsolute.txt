@@ -1,0 +1,27 @@
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\Debug\market.exe.config
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\Debug\market.exe
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\Debug\market.pdb
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.csprojAssemblyReference.cache
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.Form1.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.Properties.Resources.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.csproj.GenerateResource.cache
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.csproj.CoreCompileInputs.cache
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.exe
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.pdb
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.urunler.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.sepet.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\Debug\market.csproj.CopyComplete
+C:\Users\Umutcan\Desktop\market\market\bin\Debug\market.exe.config
+C:\Users\Umutcan\Desktop\market\market\bin\Debug\market.exe
+C:\Users\Umutcan\Desktop\market\market\bin\Debug\market.pdb
+C:\Users\Umutcan\Desktop\market\market\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.csprojResolveAssemblyReference.cache
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.Form1.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.Properties.Resources.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.sepet.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.urunler.resources
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.csproj.GenerateResource.Cache
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.exe
+C:\Users\Umutcan\Desktop\market\market\obj\Debug\market.pdb

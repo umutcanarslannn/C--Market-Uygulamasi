@@ -1,0 +1,11 @@
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\x86\Debug\market.exe.config
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\x86\Debug\market.exe
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\bin\x86\Debug\market.pdb
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.Form1.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.Properties.Resources.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.sepet.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.urunler.resources
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.csproj.GenerateResource.cache
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.csproj.CoreCompileInputs.cache
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.exe
+C:\Users\Umutcan\Documents\Visual Studio 2017\Projects\market\market\obj\x86\Debug\market.pdb

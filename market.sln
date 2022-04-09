@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "market", "market\market.csproj", "{693F5D90-8880-4B68-9E52-8169B3D5A602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Debug|x86.ActiveCfg = Debug|x86
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Debug|x86.Build.0 = Debug|x86
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Release|x86.ActiveCfg = Release|x86
+		{693F5D90-8880-4B68-9E52-8169B3D5A602}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91352588-AC2E-41F8-8743-773CD03DBA1D}
+	EndGlobalSection
+EndGlobal
